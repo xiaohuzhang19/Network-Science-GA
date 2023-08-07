@@ -1,2 +1,3 @@
 # Network-Science-GA
-network science class assignments snapshot
+Snapshot of Network Science Class Assignments and Lecture:
+
