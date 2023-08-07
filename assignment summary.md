@@ -25,9 +25,6 @@ e.Transitivity and the Average Clustering Coefficient
 Centrality, Modularity and Community Detection
 
 a. apply centrality metrics and core identification algorithms such as eigenvector centrality, Katz centrality and Page rank centrality
-
-![image-20230806221305912](/Users/xiaohuzhang/Library/Application Support/typora-user-images/image-20230806221305912.png)
-
 identify the metrics relvanent to the network. 
 
 b.  Community Detection with Zachary’s Karate Club including c-finder, greedy modularity maximization and louvain algorithm, and performed the performance measurement to identify the best algorithm 
